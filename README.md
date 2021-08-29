@@ -1,5 +1,3 @@
-# Segundo Projeto
-
 # Digital Innovation One - Desafio Final
 
 Código criado para utilização junto a plataforma da Digital Innovation One, referente ao Bootcamp "Banco Carrefour Data Engineer".
